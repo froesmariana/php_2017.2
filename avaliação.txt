@@ -1,0 +1,65 @@
+var
+  n: inteiro
+
+inicio
+   Escreva ("Informe um número: ")
+   Leia (n)
+   
+  
+
+7. 
+ 
+ var
+ n1, n2, n3, n4
+
+inicio
+ escreva(digite a primeira nota)
+ leia(n1)
+ escreva(segunda nota)
+ leia(n2)
+ escreva(digite a terceira nota)
+ leia(n3)
+ escreva(quarta nota)
+ leia(n4)
+
+ n <- (n1 + n2 + n3 + n4) / 4
+
+ escreva ("Média total é: ", n)
+
+
+8. 
+
+var
+ a,l,u,n,o,s: caractere
+
+inicio
+  a <- a
+  l <- l
+  u <- u
+  n <- n
+  o <- o
+  s <- s
+
+escreva (a,l,u,n,o,s)
+
+9.
+
+var
+  nome: caractere
+  salario: real
+  salarioMes: real
+
+inicio
+  Escreva("Informe seu nome: ")
+  Leia(nome)
+  Escreva("Informe o salário do mês: ")
+  Leia (salario)
+
+  salarioMes <- salario + 15 * 60 / 100
+  
+  EscrevaL("Vendedor: ", nome)
+  EscrevaL("Salário de: ", salario)
+  Escreva("Salário final do mês de: ", salarioMes)
+
+  
+  
